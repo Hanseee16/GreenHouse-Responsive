@@ -947,7 +947,7 @@ body::-webkit-scrollbar {
   /* Contact End */
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 400px) {
   /* Navbar */
   .navbar .menu a {
     font-size: 15px;
